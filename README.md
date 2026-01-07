@@ -4,7 +4,7 @@ Project Overview
 This project implements a Decision Tree classifier from scratch using Python and applies it to the classic Iris dataset. The goal is to understand the fundamental mechanics of decision trees, including concepts like entropy and information gain, and to evaluate their performance on a well-known classification problem. The project also covers data loading, preprocessing, model training, evaluation, and visualization of both the data and the decision tree structure.
 
 Dataset
- - The project uses the **Iris dataset**, a multivariate dataset introduced by the British statistician and biologist Ronald Fisher in 1936. The dataset consists of 150 samples from three species of Iris (Iris setosa, Iris    virginica, and Iris versicolor), with four features measured from each sample: the length and the width of the sepals and petals.
+ - The project uses the **[Iris dataset](https://www.kaggle.com/datasets/uciml/iris)**, a multivariate dataset introduced by the British statistician and biologist Ronald Fisher in 1936. The dataset consists of 150 samples from three species of Iris (Iris setosa, Iris    virginica, and Iris versicolor), with four features measured from each sample: the length and the width of the sepals and petals.
 
 
 Features

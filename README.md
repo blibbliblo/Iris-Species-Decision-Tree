@@ -1,4 +1,4 @@
-# Custom Decision Tree Classifier for Iris Dataset
+# Iris Species Decision Tree
 
 Project Overview
 This project implements a Decision Tree classifier from scratch using Python and applies it to the classic Iris dataset. The goal is to understand the fundamental mechanics of decision trees, including concepts like entropy and information gain, and to evaluate their performance on a well-known classification problem. The project also covers data loading, preprocessing, model training, evaluation, and visualization of both the data and the decision tree structure.

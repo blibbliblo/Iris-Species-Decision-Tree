@@ -16,9 +16,7 @@ Features
 - **Data Visualization**: Exploratory Data Analysis (EDA) is performed through pair plots to understand feature distributions and relationships
 - **Decision Tree Visualization**: The trained decision tree structure is visualized both textually and graphically using `graphviz`
 
-Results
+Results & Conclusion
  - The custom Decision Tree achieved an accuracy of approximately **96.67%** on the test set, demonstrating its effectiveness in classifying Iris species
  - Visualizations provided insights into feature distributions and the decision-making logic of the trained model
-
-Conclusion
  - This project successfully demonstrates the implementation and application of a custom Decision Tree classifier. It provides a hands-on understanding of how these powerful algorithms work, from data splitting criteria to    final class predictions, and how to effectively visualize their structure and performance

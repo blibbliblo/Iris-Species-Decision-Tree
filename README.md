@@ -3,6 +3,10 @@
 Project Overview
 This project implements a Decision Tree classifier from scratch using Python and applies it to the classic Iris dataset. The goal is to understand the fundamental mechanics of decision trees, including concepts like entropy and information gain, and to evaluate their performance on a well-known classification problem. The project also covers data loading, preprocessing, model training, evaluation, and visualization of both the data and the decision tree structure.
 
+Dataset
+ - The project uses the **Iris dataset**, a multivariate dataset introduced by the British statistician and biologist Ronald Fisher in 1936. The dataset consists of 150 samples from three species of Iris (Iris setosa, Iris    virginica, and Iris versicolor), with four features measured from each sample: the length and the width of the sepals and petals.
+
+
 Features
 - **Custom Decision Tree Implementation**: A complete implementation of a Decision Tree classifier, including `Node` and `DecisionTree` classes
 - **Entropy and Information Gain**: Core concepts of decision tree learning are implemented for splitting criteria
@@ -11,9 +15,6 @@ Features
 - **Model Training & Evaluation**: The custom Decision Tree is trained and evaluated for accuracy
 - **Data Visualization**: Exploratory Data Analysis (EDA) is performed through pair plots to understand feature distributions and relationships
 - **Decision Tree Visualization**: The trained decision tree structure is visualized both textually and graphically using `graphviz`
-
-Dataset
- - The project uses the **Iris dataset**, a multivariate dataset introduced by the British statistician and biologist Ronald Fisher in 1936. The dataset consists of 150 samples from three species of Iris (Iris setosa, Iris    virginica, and Iris versicolor), with four features measured from each sample: the length and the width of the sepals and petals.
 
 Results
  - The custom Decision Tree achieved an accuracy of approximately **96.67%** on the test set, demonstrating its effectiveness in classifying Iris species
